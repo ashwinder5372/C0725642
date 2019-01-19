@@ -28,7 +28,7 @@ namespace C0725642_Ashwinder Singh
             Name = aName;
             
             GPA = cGPA;
-            Attendance = dAttendance;
+        Attendance = dAttendance;
         }
     }
 }
