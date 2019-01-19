@@ -20,13 +20,13 @@ namespace C0725642_Ashwinder Singh
     class StudentInformation
     {
         string Name;
-        string StudentNumber;
+        
         double GPA;
         int Attendance;
         public StudentInformation(string aName, double cGPA, int dAttendance)
         {
             Name = aName;
-            StudentNumber = bStudentNumber;
+            
             GPA = cGPA;
             Attendance = dAttendance;
         }
